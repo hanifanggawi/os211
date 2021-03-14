@@ -9,3 +9,8 @@ ZCZC W01 30 L11 Trying out vim,vi and nano
 ZCZC W01 50 L22 Youtube
 ZCZC W01 50 L05 GSGS on interesting links
 ZCZC W01 100 L03 Setting up assginment links
+ZCZC W02 30 L11 Generating and exporting public key
+ZCZC W02 45 L11 added myscripts.sh
+ZCZC W02 20 L11 picked top 3 list in myrank.txt
+ZCZC W02 5 L11 signed files in TXT
+ZCZC W02 5 L03 resolving merge issue
