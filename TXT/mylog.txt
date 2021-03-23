@@ -23,3 +23,5 @@ ZCZC W03 10 L13 signed SHA256SUM
 ZCZC W03 15 L13 updated myrank.txt for w03 lists
 ZCZC W03 15 L13 created w03.md
 ZCZC W03 7 L13 updated mylog.txt
+ZCZC W03 82 L13 finding links for w03
+ZCZC W03 10 L22 Youtube about file systems
