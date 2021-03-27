@@ -26,3 +26,9 @@ ZCZC W03 9 L13 updated mylog.txt
 ZCZC W03 102 L13 finding links for w03
 ZCZC W03 10 L22 Youtube about file systems
 ZCZC W03 30 L00 popquiz
+ZCZC W04 30 L06 Reading up on W04 topics
+ZCZC W04 39 L14 Doing w04 tasks
+ZCZC W04 21 L14 Updated myscripts.sh
+ZCZC W04 21 L14 Updated myscripts.sh
+ZCZC W04 24 L14 Ranking w03 links
+ZCZC W04 2 L14 created w04.md for w04 links
