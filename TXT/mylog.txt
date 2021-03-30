@@ -33,3 +33,4 @@ ZCZC W04 21 L14 Updated myscripts.sh
 ZCZC W04 24 L14 Ranking w03 links
 ZCZC W04 2 L14 created w04.md for w04 links
 ZCZC W04 100 L02 Zoom
+ZCZC W04 115 L14 finding links for week04
