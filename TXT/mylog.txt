@@ -34,3 +34,8 @@ ZCZC W04 24 L14 Ranking w03 links
 ZCZC W04 2 L14 created w04.md for w04 links
 ZCZC W04 100 L02 Zoom
 ZCZC W04 115 L14 finding links for week04
+ZCZC W05 100 L02 Zoom
+ZCZC W05 15 L15 take ram photo
+ZCZC W05 15 L15 set top
+ZCZC W05 30 L15 do week05 tasks 
+ZCZC W05 110 L15 finding links for week05 
