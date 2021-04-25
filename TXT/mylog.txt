@@ -42,4 +42,6 @@ ZCZC W05 110 L15 finding links for week05
 ZCZC W06 100 L02 Zoom 
 ZCZC W06 30 L16 week06 quiz 
 ZCZC W06 22 L16 do week06 tasks 
-ZCZC W06 2 L16 update logs
+ZCZC W06 4 L16 update logs
+ZCZC W06 75 L06 Reading chapter 3 and chapter 4
+ZCZC W06 70 L16 Finding links for week06
