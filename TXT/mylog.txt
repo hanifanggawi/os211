@@ -45,3 +45,8 @@ ZCZC W06 22 L16 do week06 tasks
 ZCZC W06 4 L16 update logs
 ZCZC W06 75 L06 Reading chapter 3 and chapter 4
 ZCZC W06 70 L16 Finding links for week06
+ZCZC W07 100 L02 Zoom
+ZCZC W07 100 L17 week07 quiz (selasa, kamis)
+ZCZC W07 39 L17 week07 assignments
+ZCZC W07 3 L17 update logs
+ZCZC W07 9 L17 rangking w06 links
