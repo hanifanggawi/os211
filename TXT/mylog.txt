@@ -57,3 +57,9 @@ ZCZC W08 75 L18 quiz w08
 ZCZC W08 256 L18 LFS 1-4 + troubleshooting 
 ZCZC W08 2 L18 update logs  
 ZCZC W08 55 L18 finding links for week08
+ZCZC W09 100 027 Zoom
+ZCZC W09 60 L19 QUIZ W09
+ZCZC W09 385 L19 LFS 5,6,7 
+ZCZC W09 5 L19 Update logs 
+ZCZC W09 6 L19 ranking w08 links 
+ZCZC W09 70 L19 finding links for week09 
