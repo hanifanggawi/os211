@@ -63,3 +63,6 @@ ZCZC W09 385 L19 LFS 5,6,7
 ZCZC W09 5 L19 Update logs 
 ZCZC W09 6 L19 ranking w08 links 
 ZCZC W09 70 L19 finding links for week09 
+ZCZC W10 15 L19 Quiz W10 
+ZCZC W10 2 L19 My rank
+ZCZC W10 2 L19 update logs
